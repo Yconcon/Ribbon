@@ -1,0 +1,7 @@
+﻿  moc Ribbon.h
+  MainWindow.cpp
+  Ribbon.cpp
+  main.cpp
+  moc_MainWindow.cpp
+  moc_Ribbon.cpp
+  QRibbon.vcxproj -> F:\Ribbon\Ribbon_Test\QRibbon\x64\Debug\QRibbon.exe
